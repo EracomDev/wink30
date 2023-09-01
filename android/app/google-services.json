@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397476967603",
+    "project_id": "wink30-7d598",
+    "storage_bucket": "wink30-7d598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397476967603:android:4759c2beaa7708ff20acc6",
+        "android_client_info": {
+          "package_name": "com.era.wink30"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397476967603-nim6biaeoe2nvcfrd195o1c2va4d6rpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.era.wink30",
+            "certificate_hash": "48fe8e58d3f783765438fbff5f861c1322b7f5af"
+          }
+        },
+        {
+          "client_id": "397476967603-5phpjbasef4hufnc74ub8vbgotqq3m7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYx__lrWPDbULH7cbW-_oiII-yviueHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397476967603-5phpjbasef4hufnc74ub8vbgotqq3m7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

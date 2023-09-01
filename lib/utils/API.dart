@@ -1,0 +1,44 @@
+// const baseurl = "https://test.mlmreadymade.com/Gambit-6/jhg7q";
+const baseurl = "https://wink30.com/jhg7q";
+
+class APIPaths {
+  static String login = "$baseurl/security/login";
+  static String register = "$baseurl/register";
+  static String dashboard = "$baseurl/user/dashboard";
+  static String packages = "$baseurl/membership/get_packages";
+  static String deposit = "$baseurl/membership/topup";
+  static String retopup = "$baseurl/membership/retopup";
+  static String transcations = "$baseurl/transaction";
+  static String incomes = "$baseurl/transaction/incomes";
+  static String reward = "$baseurl/reward";
+  static String directTeam = "$baseurl/team/direct_team";
+  static String generationTeam = "$baseurl/team/generation_team";
+  static String getTransferFund = "$baseurl/fund/get_transfer_wallet";
+  static String transferFund = "$baseurl/fund/transfer";
+  static String fundConvert = "$baseurl/fund/convert";
+  static String fundConvertAll = "$baseurl/fund/convert_all";
+  static String withdraw = "$baseurl/fund/fund_withdraw";
+  static String setAccount = "$baseurl/profile/edit_account";
+  static String developmentBonus = "$baseurl/reward/development_bonus";
+  static String blog = "$baseurl/blog";
+  static String notification = "$baseurl/Notification";
+  static String editProfile = "$baseurl/profile/edit_profile";
+  static String sendForgetOTP = "$baseurl/user/send_forget_otp";
+  static String forgotPassword = "$baseurl/user/forget_password";
+  static String changePassword = "$baseurl/user/change_password";
+  static String supportType = "$baseurl/support/support_type";
+  static String support = "$baseurl/support";
+  static String supportList = "$baseurl/support/list";
+  static String metaRequest = "$baseurl/user/meta_request";
+  static String about = "$baseurl/pages/about_us";
+  static String otherContent = "$baseurl/user/other_content";
+  static String getPackages = "$baseurl/user/orders";
+  static String sendOtp = "$baseurl/user/send_otp";
+  static String verifyOtp = "$baseurl/security/email_verification";
+  static String uploadDocument = "$baseurl/kyc/identify";
+  static String getDocumentData = "$baseurl/kyc/identify_details";
+  static String currencyTopup = "$baseurl/membership/retopup";
+  static String fundRequest = "$baseurl/fund/fund_request";
+  static String fundRequestData = "$baseurl/fund/fund_request_qr";
+  static String getUsername = "$baseurl/user/user_info";
+}
